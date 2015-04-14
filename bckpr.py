@@ -16,7 +16,7 @@ import platform
 TargetFilePath = "/path/to/target/file"
 BackupDirPath = "/path/to/backup-dir/"
 
-WeeklyBackupDay = 1   # 0 - Monday .. 6 - Sunday
+WeeklyBackupDay = 0   # 0 - Monday .. 6 - Sunday
 MonthlyBackupDay = 1  # day of month
 
 KeepDailyBackupsForDays = 2
